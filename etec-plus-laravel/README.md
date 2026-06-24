@@ -190,6 +190,28 @@ O site estará disponível em `http://localhost:8000`
 ### Página 404
 ![Screenshot da Página 404](https://files.manuscdn.com/user_upload_by_module/session_file/310519663774038413/QVzonIWPjhXRdEov.png)
 
+## Como Capturar Screenshots
+
+Para capturar screenshots da tela completa do site, você pode usar os seguintes métodos:
+
+### Windows
+- Pressione `Windows + Shift + S` para capturar a região desejada
+- Ou use `Print Screen` e cole em um editor de imagens
+- Ferramentas recomendadas: Snagit, ShareX, ou o Recorte do Windows
+
+### macOS
+- Pressione `Command + Shift + 4` para capturar uma região
+- Pressione `Command + Shift + 5` para mais opções de captura
+- Ou use `Command + Shift + 3` para capturar a tela inteira
+
+### Linux
+- Use `Print Screen` ou `Shift + Print Screen`
+- Ferramentas recomendadas: Flameshot, GNOME Screenshot, ou Spectacle
+
+### Navegadores
+- Chrome/Firefox: Pressione `F12`, clique no ícone de câmera no DevTools
+- Ou use extensões como Full Page Screen Capture
+
 ## Segurança
 
 - Proteção CSRF em todos os formulários
